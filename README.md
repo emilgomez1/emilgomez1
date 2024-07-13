@@ -1,3 +1,48 @@
-## Hi there 👋
+
+
+# Create a GitHub profile README template using the user's information.
+
+header = """
+# Hi there, I'm Emil Gomez 👋
+
+Welcome to my GitHub profile! I'm a computer science major at the University at Albany, currently honing my skills and exploring various fields within software engineering, including web development, mobile app development, and cybersecurity.
+"""
+
+additional = """
+## About Me
+
+- 🎓 Pursuing a BS in Computer Science at the University at Albany (Jan 2023 – Expected Dec 2025)
+- 📚 Relevant Coursework: Introduction to Computer Science, Data Structures and Algorithms, Principles of Programming Languages, System Fundamentals, Database Systems (Fall 2024), Operating Systems (Fall 2024)
+- 💼 Current Experience: Tutorial Office Coordinator, SYEP 2024 Program at Personal Touch Medical - Manhattan
+- 💡 Projects: 
+  - [Cryptogram Game and Web Server](https://github.com/emilgomez1/cryptogram-game) - Developed an interactive Cryptogram game with a custom-built web server using C.
+  - [Programming Language Interpreter](https://github.com/emilgomez1/basic-interpreter) - Created a BASIC programming language interpreter in Java.
+  - [2D World RPG Game](https://github.com/emilgomez1/2d-rpg-game) - Developed a 2D RPG game using Java/Swing.
+  - [Text Analysis Infographic Generator](https://github.com/emilgomez1/text-analysis) - Built a Python-based text analysis program for generating dynamic infographics.
+- 🌱 Currently Learning: Cybersecurity, Mobile App Development, AWS Solutions Architect certification
+- 💬 Ask me about: Java, Python, C++, React, web development, and data visualization
+
+## Skills
+
+- Programming Languages: Java, Python, C, JavaScript, HTML, CSS, SQL
+- Frameworks & Tools: React, Git, Spring (interested in learning more)
+- Languages: Fluent in English and Spanish
+
+## Activities
+
+- **Institute of Electrical Electronics Engineers (IEEE)**
+  - Led group meetings to engage students in technical challenges, including Leetcode problem-solving sessions.
+"""
+
+social = """
+## Connect with Me
+
+- 📧 Email: [emilg2453@gmail.com](mailto:emilg2453@gmail.com)
+- 💼 LinkedIn: [Emil Gomez](https://www.linkedin.com/in/emilgomez)
+- 🐙 GitHub: [emilgomez1](https://github.com/emilgomez1)
+"""
+
+header + additional + social
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilgomez1)](https://github.com/anuraghazra/github-readme-stats)
