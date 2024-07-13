@@ -37,6 +37,5 @@ Welcome to my GitHub profile! I'm a computer science major at the University at 
 - 🐙 GitHub: [emilgomez1](https://github.com/emilgomez1)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/emilgomez1/github-readme-stats)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilgomez1)](https://github.com/anuraghazra/github-readme-stats)
