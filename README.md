@@ -36,5 +36,4 @@ Welcome to my GitHub profile! I'm a computer science major at the University at 
 - 💼 LinkedIn: [Emil Gomez](https://www.linkedin.com/in/emilgomez)
 - 🐙 GitHub: [emilgomez1](https://github.com/emilgomez1)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilgomez1&layout=compact)
 
