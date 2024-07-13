@@ -10,20 +10,19 @@ Welcome to my GitHub profile! I'm a computer science major at the University at 
 
 - 🎓 Pursuing a BS in Computer Science at the University at Albany (Jan 2023 – Expected Dec 2025)
 - 📚 Relevant Coursework: Introduction to Computer Science, Data Structures and Algorithms, Principles of Programming Languages, System Fundamentals, Database Systems (Fall 2024), Operating Systems (Fall 2024)
-- 💼 Current Experience: Tutorial Office Coordinator, SYEP 2024 Program at Personal Touch Medical - Manhattan
+- 💼 Current Experience: Tutorial Office Coordinator
 - 💡 Projects: 
-  - [Cryptogram Game and Web Server](https://github.com/emilgomez1/cryptogram-game) - Developed an interactive Cryptogram game with a custom-built web server using C.
-  - [Programming Language Interpreter](https://github.com/emilgomez1/basic-interpreter) - Created a BASIC programming language interpreter in Java.
-  - [2D World RPG Game](https://github.com/emilgomez1/2d-rpg-game) - Developed a 2D RPG game using Java/Swing.
-  - [Text Analysis Infographic Generator](https://github.com/emilgomez1/text-analysis) - Built a Python-based text analysis program for generating dynamic infographics.
+  - [Cryptogram Game and Web Server] - Developed an interactive Cryptogram game with a custom-built web server using C.
+  - [Programming Language Interpreter] - Created a BASIC programming language interpreter in Java.
+  - [2D World RPG Game] - Developed a 2D RPG game using Java/Swing.
+  - [Text Analysis Infographic Generator] - Built a Python-based text analysis program for generating dynamic infographics.
 - 🌱 Currently Learning: Cybersecurity, Mobile App Development, AWS Solutions Architect certification
 - 💬 Ask me about: Java, Python, C++, React, web development, and data visualization
 
 ## Skills
 
 - Programming Languages: Java, Python, C, JavaScript, HTML, CSS, SQL
-- Frameworks & Tools: React, Git, Spring (interested in learning more)
-- Languages: Fluent in English and Spanish
+- Frameworks & Tools: React, Git
 
 ## Activities
 
